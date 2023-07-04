@@ -1,7 +1,7 @@
 # Create and Setup Your Git and GitHub Account
 
 ## Introduction
-Welcome to the project on creating and setting up your Git and GitHub account! This README file serves as a guide to help you get started on your journey to version control and collaboration using Git and GitHub.
+Welcome to the project on creating and settin g up your Git and GitHub account! This README file serves as a guide to help you get started on your journey to version control and collaboration using Git and GitHub.
 
 ## Getting Started
 To begin, follow these steps:
